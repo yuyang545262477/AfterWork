@@ -1,0 +1,1 @@
+module.exports="webpack is an awsome Tool";

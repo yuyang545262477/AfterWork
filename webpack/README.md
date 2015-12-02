@@ -76,7 +76,7 @@
 	//  终端
 	webpack
 	//命令行反馈成功，可以用浏览器打开查看效果了.
-
+# 为了适应更多的情况，这里有[更多](http://webpack.github.io/docs/list-of-loaders.html)的loaders
 
 
 
